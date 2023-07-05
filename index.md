@@ -14,3 +14,7 @@ Commit msg: I added header and some text in index.md
 name = input("What's your name? ")
 print(f"Hello, {name}!")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
