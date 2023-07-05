@@ -1,0 +1,7 @@
+# Markdown
+Markdown is a lightweight markup language that is commonly used for formatting and structuring plain text. 
+Markdown files typically use the .md file extension. Markdown is widely supported and can be used in a variety of applications, 
+including text editors, code editors, content management systems (CMS), 
+static site generators, and online platforms like GitHub, GitLab, and Stack Overflow.
+
+Commit msg: I added header and some text in index.md
