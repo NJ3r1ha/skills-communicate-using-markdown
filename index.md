@@ -8,3 +8,9 @@ Commit msg: I added header and some text in index.md
 
 ## Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### A code example
+```
+name = input("What's your name? ")
+print(f"Hello, {name}!")
+```
